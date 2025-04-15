@@ -23,6 +23,7 @@
 
     @media (max-width: 768px) {
         display: flex;
+        flex-direction: column;
         gap: var(--gap);
         padding: var(--padding-y) 0;
     }
